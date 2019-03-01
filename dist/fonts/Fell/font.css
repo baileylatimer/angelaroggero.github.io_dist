@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "FellWeb-Regular";
+  src: url("FellWeb-Regular.eot");
+  src: url("FellWeb-Regular.eot?#iefix") format("embedded-opentype"),
+    url("FellWeb-Regular.svg#FellWeb-Regular") format("svg"),
+    url("FellWeb-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

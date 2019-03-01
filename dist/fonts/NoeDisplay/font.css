@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'NoeDisplay-Medium';
+  src: url('NoeDisplay-Medium.eot');
+  src: url('NoeDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+       url('NoeDisplay-Medium.svg#NoeDisplay-Medium') format('svg'),
+       url('NoeDisplay-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+

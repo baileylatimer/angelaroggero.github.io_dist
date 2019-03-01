@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "MaratWeb-Regular";
+  src: url("MaratWeb-Regular.eot");
+  src: url("MaratWeb-Regular.eot?#iefix") format("embedded-opentype"),
+    url("MaratWeb-Regular.svg#MaratWeb-Regular") format("svg"),
+    url("MaratWeb-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
